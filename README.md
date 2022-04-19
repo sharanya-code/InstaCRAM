@@ -5,7 +5,7 @@ Demo:- https://youtube.com/shorts/-Hy7dTcMbkQ?feature=share
 
 # Features
 
-1. Authenticatiom
+1. Authentication
   -> Using Email and Password
 
 2. Sharing Images with a description and creation time with different users
