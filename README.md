@@ -7,6 +7,7 @@ Demo:- https://youtube.com/shorts/-Hy7dTcMbkQ?feature=share
 
 1. Authentication
   -> Using Email and Password
+  -> Account Creation using Email and Password
 
 2. Sharing Images with a description and creation time with different users
 
@@ -28,19 +29,30 @@ Android 5 or higher
 
 # Preview
 
-![image](https://user-images.githubusercontent.com/85218416/164088736-23eab34c-9e0e-4192-9421-4230c31c65f7.png)
+![image](https://user-images.githubusercontent.com/85218416/164997322-a4ffce37-eb78-4e2e-83cb-91910822dc06.png)
+
+
+![image](https://user-images.githubusercontent.com/85218416/164997329-5cf7a198-4e58-4c10-8ae6-d97cbd82d28e.png)
+
 
 ![image](https://user-images.githubusercontent.com/85218416/164088784-aa9bc8ab-5864-4493-941b-e0b664604567.png)
 
+
 ![image](https://user-images.githubusercontent.com/85218416/164088825-069b2222-5bd2-4b89-95d7-1ade76626153.png)
+
 
 ![image](https://user-images.githubusercontent.com/85218416/164088842-fe10116e-764f-4252-9540-703e65fe58dc.png)
 
 ![image](https://user-images.githubusercontent.com/85218416/164088868-4bcd0f2f-3c55-4170-88d5-0a0f0fd94a81.png)
 
+
+# New Features
+
+Account Creation and Sign Up
+
 # Upcoming Features
 
-1. Account Creation
+Deleting and Updating Posts
 
 
 
